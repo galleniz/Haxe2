@@ -1,0 +1,4 @@
+function new()
+{
+  trace2('hello world 2');
+}
